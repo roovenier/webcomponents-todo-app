@@ -1,0 +1,14 @@
+* {
+    color: #eee;
+    font-family: Verdana, Geneva, Sans-Serif;
+}
+
+body {
+    background: #333;
+    padding: 30px;
+}
+
+.todo-app {
+    margin-top: 60px;
+    display: block;
+}
